@@ -28,3 +28,4 @@ Python Developer & Tech Enthusiast — building AI tools, desktop applications, 
 * **Caesar Cipher** — Command-line cryptography utility built in Python to encode and decode text using customizable shift values. [Repository](https://github.com/Ratneshwar-Veerappan/Caesar-Cipher-Python)
 
 * **Weather App** — Python utility that fetches real-time meteorological data and forecasts for designated locations. [Repository](https://github.com/Ratneshwar-Veerappan/Weather-App) [website](https://ratneshwar-veerappan.github.io/Weather-App/)
+* **Deal-or-No-Deal-Game — Interactive desktop recreation of Deal or No Deal with a custom banker offer algorithm built using Tkinter. [Repository](https://github.com/Ratneshwar-Veerappan/Deal-or-No-Deal-Game)
