@@ -2,7 +2,7 @@
 
 Python Developer & Tech Enthusiast — building AI tools, desktop applications, games, and daily utilities.
 
-  [GitHub](https://github.com/ratneshwar777) | [Email](ratneshwarveerappan@gmail.com)
+  [GitHub](https://github.com/Ratneshwar-Veerappan) | [Email](ratneshwarveerappan@gmail.com)
 
 ---
 
